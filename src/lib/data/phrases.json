@@ -1,150 +1,282 @@
 [
   {
-    "phrase": "La paz os dejo, mi paz os doy; no os la doy como el mundo la da.",
-    "author": "Jesús - Juan 14:27"
+    "phrase": "La motivación es lo que te pone en marcha, y el hábito es lo que hace que sigas.",
+    "author": "Jim Ryun"
   },
   {
-    "phrase": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
-    "author": "Jesús - Mateo 11:28"
+    "phrase": "La salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.",
+    "author": "OMS"
   },
   {
-    "phrase": "No se inquieten por nada, más bien oren y den gracias a Dios.",
-    "author": "San Pablo - Filipenses 4:6"
-  },
-  { "phrase": "El Señor es mi pastor, nada me falta.", "author": "Salmo 23:1" },
-  {
-    "phrase": "Dios no es Dios de confusión, sino de paz.",
-    "author": "1 Corintios 14:33"
+    "phrase": "Haz de cada día tu obra maestra.",
+    "author": "John Wooden"
   },
   {
-    "phrase": "Confía en el Señor con todo tu corazón.",
-    "author": "Proverbios 3:5"
-  },
-  { "phrase": "Donde hay amor, allí está Dios.", "author": "San Agustín" },
-  { "phrase": "Ama y haz lo que quieras.", "author": "San Agustín" },
-  {
-    "phrase": "La paciencia todo lo alcanza.",
-    "author": "Santa Teresa de Ávila"
+    "phrase": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+    "author": "Albert Schweitzer"
   },
   {
-    "phrase": "No hay mayor amor que dar la vida por los amigos.",
-    "author": "Jesús - Juan 15:13"
-  },
-
-  {
-    "phrase": "La felicidad no depende de lo que nos falta, sino de cómo usamos lo que tenemos.",
-    "author": "Aristóteles"
+    "phrase": "El amor no se mira, se siente, y aún más cuando ella está junto a ti.",
+    "author": "Pablo Neruda"
   },
   {
-    "phrase": "No hay camino a la paz, la paz es el camino.",
+    "phrase": "Cuida tu cuerpo. Es el único lugar que tienes para vivir.",
+    "author": "Jim Rohn"
+  },
+  {
+    "phrase": "La vida es un 10% lo que me ocurre y 90% cómo reacciono a ello.",
+    "author": "Charles R. Swindoll"
+  },
+  {
+    "phrase": "La amistad duplica las alegrías y divide las angustias por la mitad.",
+    "author": "Francis Bacon"
+  },
+  {
+    "phrase": "Sé tú el cambio que quieres ver en el mundo.",
     "author": "Mahatma Gandhi"
   },
   {
-    "phrase": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
-    "author": "John Lennon"
+    "phrase": "La disciplina es el puente entre metas y logros.",
+    "author": "Jim Rohn"
   },
   {
-    "phrase": "El tiempo que disfrutas malgastando no es tiempo perdido.",
-    "author": "Bertrand Russell"
+    "phrase": "Donde reina el amor, sobran las leyes.",
+    "author": "Platón"
   },
   {
-    "phrase": "El hombre que ha aprendido a descansar ha aprendido a vivir.",
-    "author": "George MacDonald"
+    "phrase": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+    "author": "George Eliot"
   },
   {
-    "phrase": "El silencio es una fuente de gran fortaleza.",
-    "author": "Lao Tse"
+    "phrase": "La mayor riqueza es la salud.",
+    "author": "Virgilio"
   },
   {
-    "phrase": "Nada puede traerte paz salvo vos mismo.",
+    "phrase": "Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado.",
+    "author": "Proverbio africano"
+  },
+  {
+    "phrase": "Haz lo que puedas, con lo que tengas, donde estés.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "phrase": "El amor es la única fuerza capaz de transformar a un enemigo en amigo.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "phrase": "La mente lo es todo. En lo que piensas te conviertes.",
+    "author": "Buda"
+  },
+  {
+    "phrase": "No se trata de ser el mejor, sino de ser mejor que ayer.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "La verdadera amistad llega cuando el silencio entre dos personas es cómodo.",
+    "author": "David Tyson"
+  },
+  {
+    "phrase": "El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.",
+    "author": "Winston Churchill"
+  },
+  {
+    "phrase": "El futuro depende de lo que hagas hoy.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "phrase": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "phrase": "La confianza en sí mismo es el primer secreto del éxito.",
     "author": "Ralph Waldo Emerson"
   },
   {
-    "phrase": "El descanso es el condimento que da sabor al trabajo.",
-    "author": "Plutarco"
+    "phrase": "El amor cura a las personas, tanto al que lo da como al que lo recibe.",
+    "author": "Karl Menninger"
   },
   {
-    "phrase": "El hombre se autorrealiza en la medida en que se compromete con el sentido de su vida.",
-    "author": "Viktor Frankl"
-  },
-  { "phrase": "La calma es contagiosa.", "author": "Naval Ravikant" },
-
-  {
-    "phrase": "Deja que todo se haga con amor.",
-    "author": "San Pablo - 1 Corintios 16:14"
+    "phrase": "El éxito no se mide por lo que logras, sino por la oposición que has enfrentado.",
+    "author": "Orison Swett Marden"
   },
   {
-    "phrase": "Guarda silencio ante el Señor y espera en Él.",
-    "author": "Salmo 37:7"
+    "phrase": "La esperanza es el sueño del hombre despierto.",
+    "author": "Aristóteles"
   },
   {
-    "phrase": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.",
-    "author": "Salmo 91:1"
+    "phrase": "Cuanto más hacemos, más podemos hacer.",
+    "author": "William Hazlitt"
   },
   {
-    "phrase": "Mi gracia te basta, porque mi poder se perfecciona en la debilidad.",
-    "author": "2 Corintios 12:9"
+    "phrase": "El secreto para tener salud está en aprender a disfrutar de la vida.",
+    "author": "Henry Ward Beecher"
   },
   {
-    "phrase": "La paz comienza con una sonrisa.",
-    "author": "Madre Teresa de Calcuta"
+    "phrase": "La verdadera medida de la riqueza es cuántas cosas buenas puedes hacer por los demás.",
+    "author": "Anónimo"
   },
   {
-    "phrase": "Quien tiene paz en sí mismo, la tiene con los demás.",
-    "author": "San Francisco de Asís"
+    "phrase": "Un amigo es alguien que lo sabe todo de ti y aún así te quiere.",
+    "author": "Elbert Hubbard"
   },
   {
-    "phrase": "La fe ve lo invisible, cree lo increíble y recibe lo imposible.",
-    "author": "Corrie ten Boom"
+    "phrase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+    "author": "Robert Collier"
   },
   {
-    "phrase": "Dios es amor, y quien permanece en amor permanece en Dios.",
-    "author": "1 Juan 4:16"
+    "phrase": "Donde hay amor, hay vida.",
+    "author": "Mahatma Gandhi"
   },
   {
-    "phrase": "Dios escribe derecho en renglones torcidos.",
-    "author": "Santa Teresa de Jesús"
+    "phrase": "La fortaleza no viene de la capacidad física, sino de la voluntad indomable.",
+    "author": "Mahatma Gandhi"
   },
   {
-    "phrase": "El amor todo lo cree, todo lo espera, todo lo soporta.",
-    "author": "1 Corintios 13:7"
-  },
-
-  {
-    "phrase": "La tranquilidad perfecta consiste en el buen orden de la mente.",
-    "author": "Marco Aurelio"
+    "phrase": "El optimismo es la fe que conduce al logro.",
+    "author": "Helen Keller"
   },
   {
-    "phrase": "El hombre que sufre antes de lo necesario sufre más de lo necesario.",
+    "phrase": "La vida es como montar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "La mejor forma de predecir el futuro es crearlo.",
+    "author": "Peter Drucker"
+  },
+  {
+    "phrase": "La amistad es un alma que habita en dos cuerpos.",
+    "author": "Aristóteles"
+  },
+  {
+    "phrase": "La perseverancia no es una carrera larga; son muchas carreras cortas una tras otra.",
+    "author": "Walter Elliot"
+  },
+  {
+    "phrase": "El amor es la poesía de los sentidos.",
+    "author": "Honoré de Balzac"
+  },
+  {
+    "phrase": "El hombre no puede descubrir nuevos océanos a menos que tenga el valor de perder de vista la costa.",
+    "author": "André Gide"
+  },
+  {
+    "phrase": "El mayor error que puedes cometer es tener miedo a cometer errores.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "phrase": "La salud es la mayor posesión. La alegría es el mayor tesoro.",
+    "author": "Lao Tse"
+  },
+  {
+    "phrase": "El trabajo en equipo divide el esfuerzo y multiplica los resultados.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "La fe es dar el primer paso incluso cuando no ves toda la escalera.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "phrase": "El mayor placer de la vida es hacer lo que la gente dice que no puedes hacer.",
+    "author": "Walter Bagehot"
+  },
+  {
+    "phrase": "La amistad verdadera resiste el tiempo, la distancia y el silencio.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "Cada logro comienza con la decisión de intentarlo.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "No puedes tener una vida positiva con una mente negativa.",
+    "author": "Joyce Meyer"
+  },
+  {
+    "phrase": "El amor es la llave maestra que abre las puertas de la felicidad.",
+    "author": "Oliver Wendell Holmes"
+  },
+  {
+    "phrase": "La vida es corta, sonríe a quien llora, ignora a quien te critica y sé feliz con quien te importa.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "Nunca dejes que el miedo decida tu futuro.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "El éxito llega para todos aquellos que están ocupados buscándolo.",
+    "author": "Henry Thoreau"
+  },
+  {
+    "phrase": "La gratitud convierte lo que tenemos en suficiente.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "El amor no consiste en mirarse el uno al otro, sino en mirar juntos en la misma dirección.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "phrase": "La vida comienza donde termina tu zona de confort.",
+    "author": "Neale Donald Walsch"
+  },
+  {
+    "phrase": "El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de forma más inteligente.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "El corazón alegre es una buena medicina.",
+    "author": "Proverbios 17:22"
+  },
+  {
+    "phrase": "Las grandes cosas nunca vienen de la zona de confort.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "Cuida tus pensamientos, porque se convierten en palabras.",
+    "author": "Lao Tse"
+  },
+  {
+    "phrase": "Amar es encontrar en la felicidad de otro tu propia felicidad.",
+    "author": "Gottfried Leibniz"
+  },
+  {
+    "phrase": "El éxito no es para los que piensan en hacerlo, sino para los que lo hacen.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "La fuerza no proviene de lo que puedes hacer, sino de superar lo que pensabas que no podías.",
+    "author": "Rikki Rogers"
+  },
+  {
+    "phrase": "La salud es la mayor riqueza del hombre.",
+    "author": "Hipócrates"
+  },
+  {
+    "phrase": "Lo que no te mata, te hace más fuerte.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "phrase": "El amor y la compasión son necesidades, no lujos. Sin ellos la humanidad no puede sobrevivir.",
+    "author": "Dalái Lama"
+  },
+  {
+    "phrase": "Hazlo con pasión o no lo hagas.",
+    "author": "Rosa Nouchette Carey"
+  },
+  {
+    "phrase": "El éxito es amar la vida y atreverse a vivirla.",
+    "author": "Maya Angelou"
+  },
+  {
+    "phrase": "Las relaciones se construyen con confianza, y la confianza con acciones.",
+    "author": "Anónimo"
+  },
+  {
+    "phrase": "La salud del alma se consigue con la alegría.",
     "author": "Séneca"
   },
   {
-    "phrase": "El secreto de la salud está en la calma de la mente.",
-    "author": "James Allen"
-  },
-  {
-    "phrase": "Cuando no puedas controlar lo que pasa, controla tu forma de responder.",
-    "author": "Epicteto"
-  },
-  {
-    "phrase": "Relajarse es dejar ir la tensión, no la responsabilidad.",
-    "author": "Anónimo"
-  },
-  {
-    "phrase": "La serenidad no es estar a salvo de la tormenta, sino tener paz en medio de ella.",
-    "author": "Anónimo"
-  },
-  { "phrase": "Respira profundo, estás vivo.", "author": "Anónimo" },
-  {
-    "phrase": "Un corazón tranquilo da vida al cuerpo.",
-    "author": "Proverbios 14:30"
-  },
-  {
-    "phrase": "La paz interior ilumina el mundo exterior.",
-    "author": "Anónimo"
-  },
-  {
-    "phrase": "El descanso es parte del viaje, no una pausa.",
-    "author": "Anónimo"
+    "phrase": "El éxito parece ser en buena parte cuestión de perseverar después de que otros han abandonado.",
+    "author": "William Feather"
   }
 ]
