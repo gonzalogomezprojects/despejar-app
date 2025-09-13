@@ -1,5 +1,4 @@
 import { Card, CardContent } from "@/components/ui/card";
-import QuoteContent from "./QuoteContent";
 import { Quote } from "lucide-react";
 import QuoteServer from "./QuoteServer";
 
