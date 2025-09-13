@@ -1,0 +1,639 @@
+[
+  {
+    "activity": "Medita durante 10 minutos en un lugar tranquilo",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Sal a caminar por tu barrio y observa la naturaleza",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Escribe tres cosas por las que te sientes agradecido hoy",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Llama a un amigo o familiar que no has visto en un tiempo",
+    "type": "social",
+    "participants": 2,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Organiza un espacio de tu casa que necesite atención",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Prepara una comida saludable con ingredientes frescos",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.3,
+    "accessibility": 0.5
+  },
+  {
+    "activity": "Lee un capítulo de un libro que te inspire",
+    "type": "educación",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Practica ejercicios de respiración profunda",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Escucha música relajante mientras te estiras",
+    "type": "bienestar",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Planifica una actividad divertida para el fin de semana",
+    "type": "planificación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+
+  {
+    "activity": "Haz una pausa y toma un té caliente",
+    "type": "bienestar",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Escribe una lista de tus metas para la semana",
+    "type": "planificación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz estiramientos durante 5 minutos",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Envía un mensaje positivo a alguien cercano",
+    "type": "social",
+    "participants": 2,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Escucha un podcast sobre un tema que te interese",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz una limpieza rápida de tu escritorio",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Prueba una nueva receta sencilla",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.4,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Anota un recuerdo feliz en un cuaderno",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Sal a tomar aire fresco por 5 minutos",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Organiza tus pendientes con una lista",
+    "type": "planificación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+
+  {
+    "activity": "Haz 10 sentadillas o flexiones",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Lee un artículo corto sobre un tema nuevo",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Dibuja algo que te venga a la mente",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Cocina un postre sencillo",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.5,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Ordena las fotos de tu celular",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Escribe una carta a tu yo futuro",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz yoga guiado con un video corto",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Ve un documental de 15 minutos",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Escucha una canción motivadora",
+    "type": "bienestar",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Llama a alguien solo para saludar",
+    "type": "social",
+    "participants": 2,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz una lista de películas que quieras ver",
+    "type": "planificación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Prepara una bebida refrescante casera",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.3,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz un rompecabezas o juego de mesa",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Aprende 5 palabras nuevas en otro idioma",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz una caminata corta escuchando música",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Dibuja un autorretrato divertido",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz una lista de tus canciones favoritas",
+    "type": "bienestar",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Escribe tus objetivos a largo plazo",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Prepara un desayuno diferente al habitual",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.4,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz una rutina corta de estiramientos de cuello y hombros",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+
+  {
+    "activity": "Envía un mensaje de agradecimiento a alguien",
+    "type": "social",
+    "participants": 2,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Escucha un audiolibro por 10 minutos",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Dibuja tu lugar favorito",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Organiza tu calendario semanal",
+    "type": "planificación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz una caminata descalzo en el pasto",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Haz 15 abdominales",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Escribe un poema corto",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Ordena tu correo electrónico",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Aprende una curiosidad científica",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Respira profundamente durante 3 minutos",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+
+  {
+    "activity": "Haz una playlist con música calmante",
+    "type": "bienestar",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz una limpieza rápida en la cocina",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Prepara un smoothie de frutas",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.4,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Escribe un diario de lo que hiciste hoy",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Aprende una receta internacional fácil",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.5,
+    "accessibility": 0.5
+  },
+  {
+    "activity": "Haz un tablero de ideas con recortes o apps",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0.3,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Lee una biografía inspiradora",
+    "type": "educación",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz una caminata corta sin celular",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Escucha un podcast de comedia",
+    "type": "bienestar",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Comparte una frase motivadora en redes",
+    "type": "social",
+    "participants": 2,
+    "price": 0,
+    "accessibility": 0.3
+  },
+
+  {
+    "activity": "Prueba escribir con la mano no dominante",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz 20 saltos de tijera",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Ordena tus archivos digitales",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Aprende una nueva técnica de respiración",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Haz un boceto rápido de un objeto cercano",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz una lista de logros recientes",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Escribe un correo que tenías pendiente",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Escucha un audio de meditación guiada",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Dibuja un mapa de tu ciudad de memoria",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz una sopa o guiso nutritivo",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.5,
+    "accessibility": 0.5
+  },
+
+  {
+    "activity": "Aprende una habilidad nueva en YouTube",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Escribe una lista de cosas que te hacen feliz",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Organiza tu cartera o mochila",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz una caminata escuchando solo sonidos naturales",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Envía una nota de voz motivadora a alguien",
+    "type": "social",
+    "participants": 2,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Aprende una curiosidad histórica",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz 10 minutos de estiramientos para principiantes",
+    "type": "ejercicio",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Escribe una frase positiva en un papel y pégala en la pared",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Escucha una canción que te haga bailar",
+    "type": "bienestar",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Haz una lista de tus pendientes a corto plazo",
+    "type": "planificación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+
+  {
+    "activity": "Dibuja tu casa ideal",
+    "type": "creatividad",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Escribe tres cosas que aprendiste esta semana",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Haz una limpieza rápida en tu habitación",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Prepara una ensalada diferente",
+    "type": "cocina",
+    "participants": 1,
+    "price": 0.4,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Aprende un truco de memoria",
+    "type": "educación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz 5 minutos de meditación guiada",
+    "type": "relajación",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Haz una videollamada corta con un amigo",
+    "type": "social",
+    "participants": 2,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Haz una caminata corta al atardecer",
+    "type": "bienestar",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Ordena tu lista de contactos en el celular",
+    "type": "productividad",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Escribe una lista de sueños pendientes",
+    "type": "reflexión",
+    "participants": 1,
+    "price": 0,
+    "accessibility": 0.2
+  }
+]
