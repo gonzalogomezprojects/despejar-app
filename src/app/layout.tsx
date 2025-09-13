@@ -24,7 +24,7 @@ const defaultUrl = process.env.VERCEL_URL
 export const metadata: Metadata = {
   metadataBase: new URL(defaultUrl),
   title: "DespejarApp",
-  description: "Una Web App para relajarse y respirar otro aire.",
+  description: "Hub para relajarse y respirar otro aire.",
   icons: {
     icon: "/favicon.ico",
     apple: "/apple-touch-icon.png",

@@ -10,14 +10,14 @@ const Footer = () => {
           <span className="font-semibold text-foreground">DespejarApp</span>
         </div>
         <p className="text-sm text-muted-foreground">
-          Creado con Next.js y Tailwind CSS • Dashboard de bienestar y hábitos
+          Creado con Next.js and love for open source code • Hub de bienestar y hábitos
         </p>
         <div className="flex items-center justify-center gap-4 mt-4 text-xs text-muted-foreground">
           <span>Frases motivacionales</span>
           <span>•</span>
           <span>Actividades sugeridas</span>
           <span>•</span>
-          <span>Traducción automática</span>
+          <span>Un lugar para despejarte</span>
         </div>
       </div>
     </footer>

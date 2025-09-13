@@ -24,7 +24,7 @@ const Header = () => {
         <div className="flex items-center justify-center gap-2 mt-6">
           <Heart className="h-5 w-5 text-accent" />
           <span className="text-sm text-muted-foreground">
-            Dashboard de bienestar y hábitos
+            Hub de bienestar y hábitos
           </span>
         </div>
       </div>
