@@ -1,4 +1,4 @@
-# 🌿 RelajarApp
+# ☁️ RelajarApp
 
 **RelajarApp** es una Progressive Web App (PWA) desarrollada con **Next.js 15** (App Router + Turbopack).  
 Ofrece frases motivacionales y actividades relajantes diarias para ayudar a las personas a encontrar calma, motivación y bienestar.  
