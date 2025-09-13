@@ -7,11 +7,9 @@ import Header from "@/components/layout/Header";
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-background via-background to-muted/20">
-      <Header/>
-      {/* Main Content */}
+      <Header />
       <main className="container mx-auto px-4 py-12">
         <div className="space-y-12">
-          {/* Welcome Section */}
           <section className="text-center space-y-4">
             <h2 className="text-2xl font-semibold text-foreground font-sans">
               Bienvenido a tu espacio de tranquilidad
@@ -23,17 +21,14 @@ export default function HomePage() {
             </p>
           </section>
 
-          {/* Quote Section */}
           <section className="space-y-6">
             <QuoteCard />
           </section>
 
-          {/* Activity Section */}
           <section className="space-y-6">
             <ActivityCard />
           </section>
 
-          {/* Stats Section */}
           <section className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
             <div className="text-center p-6 rounded-lg bg-card/30 backdrop-blur-sm border border-border/50">
               <div className="p-3 rounded-full bg-primary/10 w-fit mx-auto mb-4">
@@ -74,8 +69,7 @@ export default function HomePage() {
         </div>
       </main>
 
-      <Footer/>
-     
+      <Footer />
     </div>
   );
 }

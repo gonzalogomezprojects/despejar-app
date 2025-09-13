@@ -23,7 +23,7 @@ const defaultUrl = process.env.NEXT_PUBLIC_URL
 
 export const metadata: Metadata = {
   metadataBase: new URL(defaultUrl),
-  title: "RelajarApp",
+  title: "DespejarApp",
   description: "Una Web App para relajarse y respirar otro aire.",
   icons: {
     icon: "/favicon.ico",
@@ -44,11 +44,10 @@ export default function RootLayout({
   return (
     <html lang="es">
       <head>
-        <meta name="apple-mobile-web-app-title" content="Relajar App" />
+        <meta name="apple-mobile-web-app-title" content="Despejar App" />
       </head>
       <body className={`font-sans ${poppins.variable} ${dmSans.variable}`}>
         <Suspense fallback={null}>{children}</Suspense>
-        {/*    <Analytics /> */}
       </body>
     </html>
   );
