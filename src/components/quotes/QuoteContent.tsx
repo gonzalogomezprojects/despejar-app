@@ -6,7 +6,7 @@ import { RefreshCw } from "lucide-react";
 import { Button } from "../ui/button";
 
 async function  getQuote(): Promise<Quotes>{
-  const res = await fetch("http://localhost:3000/api/phrase");
+  const res = await fetch(`${process.env.NEXT_PUBLIC_URL}/api/phrase`);
   return res.json();
 }
 

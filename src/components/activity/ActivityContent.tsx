@@ -7,7 +7,7 @@ import { Activity } from "../interfaces/activity";
 import { useState } from "react";
 
 async function getActivity() {
-  const res = await fetch("http://localhost:3000/api/activity");
+  const res = await fetch(`${process.env.NEXT_PUBLIC_URL}/api/activity`);
   return res.json();
 }
 

@@ -1,7 +1,7 @@
 import ActivityContent from "./ActivityContent";
 
 async function getInitialActivity() {
-  const res = await fetch("http://localhost:3000/api/activity/", {
+  const res = await fetch(`${process.env.NEXT_PUBLIC_URL}/api/activity`, {
     cache: "no-store",
   });
   return res.json();

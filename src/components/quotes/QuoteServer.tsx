@@ -2,7 +2,7 @@ import QuoteContent from "./QuoteContent";
 
 
 async function getInitialQuote() {
-    const res = await fetch("http://localhost:3000/api/phrase", {
+    const res = await fetch(`${process.env.NEXT_PUBLIC_URL}/api/phrase`, {
       cache: "no-cache",
     });
     return res.json();
