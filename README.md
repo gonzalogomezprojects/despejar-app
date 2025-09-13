@@ -1,36 +1,131 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌿 RelajarApp
 
-## Getting Started
+**RelajarApp** es una Progressive Web App (PWA) desarrollada con **Next.js 15** (App Router + Turbopack).  
+Ofrece frases motivacionales y actividades relajantes diarias para ayudar a las personas a encontrar calma, motivación y bienestar.  
 
-First, run the development server:
+Además, expone **dos endpoints gratuitos y públicos** para que cualquiera pueda consumir frases o actividades en formato JSON.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## 🚀 Tecnologías principales
+
+- [Next.js 15](https://nextjs.org/) — Framework de React con SSR y App Router.  
+- [TypeScript](https://www.typescriptlang.org/) — Tipado estático.  
+- [Tailwind CSS](https://tailwindcss.com/) — Estilos rápidos y modernos.  
+- [ShadCN/UI](https://ui.shadcn.com/) — Componentes accesibles.  
+- [Lucide Icons](https://lucide.dev/) — Iconografía adaptable.  
+- [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) — Instalación y uso offline.  
+
+---
+
+## 📂 Estructura del proyecto
+
+```
+src/
+ ├── app/
+ │    ├── api/phrase/     # Endpoint de frases
+ │    └── api/activity/   # Endpoint de actividades
+ │
+ ├── components/          # UI y contenido
+ ├── lib/data/            # JSON con frases y actividades
+ └── page.tsx             # Página principal
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⚡ Características
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- ✅ **Frases motivacionales** desde `/api/phrase`.  
+- ✅ **Actividades relajantes** desde `/api/activity`.  
+- ✅ **Endpoints gratuitos** que devuelven contenido en JSON.  
+- ✅ **PWA lista** con manifest y service worker.  
+- ✅ **Instalable en dispositivos móviles**.  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🌍 Endpoints públicos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+RelajarApp expone dos endpoints gratuitos:  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 📌 Obtener una frase aleatoria
+```
+GET /api/phrase
+```
 
-## Deploy on Vercel
+Ejemplo de respuesta:
+```json
+{
+  "phrase": "La paz comienza con una sonrisa.",
+  "author": "Madre Teresa de Calcuta"
+}
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 📌 Obtener una actividad aleatoria
+```
+GET /api/activity
+```
+
+Ejemplo de respuesta:
+```json
+{
+  "activity": "Caminar 10 minutos al aire libre",
+  "category": "Bienestar"
+}
+```
+
+---
+
+## 🛠 Instalación y uso
+
+### 1. Clonar repositorio
+```bash
+git clone https://github.com/tuusuario/relajarapp.git
+cd relajarapp
+```
+
+### 2. Instalar dependencias
+```bash
+pnpm install
+# o npm install
+```
+
+### 3. Levantar en desarrollo
+```bash
+pnpm run dev
+```
+
+### 4. Acceder en navegador
+```
+http://localhost:3000
+```
+
+---
+
+## 🔒 Seguridad y límites
+
+- Los endpoints son **públicos y gratuitos**.  
+- Se pueden proteger con **rate limiting** para evitar abuso (ej: 5 requests/min).  
+- Opcional: integración con **Supabase Auth** para restringir por usuario.  
+
+---
+
+## ✨ Futuras mejoras
+
+- [ ] Notificaciones push (Web Push API + Supabase).  
+- [ ] Historial de frases favoritas.  
+- [ ] Filtros por categorías.  
+- [ ] Internacionalización (i18n).  
+
+---
+
+## 📜 Licencia
+
+Este proyecto se distribuye bajo la licencia **MIT**.  
+
+---
+
+## 👨‍💻 Autor
+
+Desarrollado por **Gonzalo Gómez Projects**
