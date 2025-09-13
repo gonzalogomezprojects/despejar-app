@@ -1,7 +1,6 @@
 // app/api/phrase/route.ts
 import { NextResponse } from "next/server";
 import activity from "@/lib/data/activity.json";
-import phrases from '@/lib/data/phrases.json';
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
@@ -94,7 +93,7 @@ export async function GET(req: Request) {
 
   try {
     const randomIndex = Math.floor(Math.random() * activity.length);
-    const randomPhrase = phrases[randomIndex];
+    const randomPhrase = activity[randomIndex];
     return new NextResponse(JSON.stringify(randomPhrase), {
       status: 200,
       headers: baseHeaders,
